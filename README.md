@@ -1,5 +1,5 @@
 # Machine-Learning-A-Z
-Hands-On Python Data Science [link to Course !](https://www.udemy.com/course/machinelearning/)
+Hands-On Python Data Science [link to Course !](https://www.udemy.com/share/101WciAEodcVhSQ3Q=/)
 
 This Repo is collection of different Algorithm templates in python from the course content
 
